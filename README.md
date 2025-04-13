@@ -1,4 +1,3 @@
-# storm-breaker
 <h1 align="center">
   <br>
   <a href=""><img src=".imgs/1demo.png" alt="StormBreaker"></a>
